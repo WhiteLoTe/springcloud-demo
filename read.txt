@@ -1,2 +1,2 @@
 hello git
-hot-fix
+hot-fix master edit
